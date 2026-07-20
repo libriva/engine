@@ -32,10 +32,6 @@ Coming soon...
 - Android 🟡
 - Windows 🟡
 
-## 📷 Screenshots
-
-Coming soon...
-
 ## 📜 Credits
 
 - SoftYesTI [\<softyes.com.br\>](https://softyes.com.br)
