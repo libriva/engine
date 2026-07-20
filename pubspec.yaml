@@ -1,0 +1,20 @@
+name: libriva_engine
+description: A starting point for Dart libraries or applications.
+
+homepage: https://softyes.com.br
+repository: https://github.com/libriva/engine
+issue_tracker: https://github.com/libriva/engine/issues
+
+version: 0.1.0
+
+environment:
+  sdk: ^3.12.2
+  flutter: ^3.44.6
+
+dependencies:
+  path: ^1.9.0
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
+  very_good_analysis: ^10.3.0
