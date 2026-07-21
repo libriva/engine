@@ -5,5 +5,5 @@
     "softyes"
   ],
   "dart.flutterSdkPath": ".fvm/versions/3.44.6",
-  "dart.sdkPath": ".fvm/versions/3.44.6/bin/cache/dart-sdk",
+  "dart.sdkPath": ".fvm/versions/3.44.6/bin/cache/dart-sdk"
 }
